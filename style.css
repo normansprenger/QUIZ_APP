@@ -31,3 +31,21 @@ background-color: rgba(0, 0, 0, 0.053);
 .bg-danger, .bg-success{
     color: white !important;
 }
+
+.endImage{
+    width: 100%;
+}
+
+.textAlignCenter{
+    text-align: center;
+}
+
+.textSize30{
+    font-size: 30px;
+}
+
+.btnRestart{
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+}
